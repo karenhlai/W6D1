@@ -1,0 +1,14 @@
+/* PHASE 7: Online */
+.online {
+  display: block;
+  overflow: clip;
+  position: absolute;
+  transform: translateX(5px) translateY(20px) rotate(-0.12turn);
+  background: purple;
+  letter-spacing: 2px;
+  padding: 5px;
+  border-radius: 20px;
+  box-shadow: 10px 5px 5px plum;
+  /* word-wrap: normal; */
+  /* margin-left: 50px; */
+}
